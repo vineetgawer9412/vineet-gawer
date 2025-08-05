@@ -1,0 +1,9 @@
+NOTES DAY 2
+
+1.sort
+2.cat
+3.chmod 0 --> permission
+	1 --> execute only
+	2 --> write only
+	3 --> read only
+   chmod 700 xyz.txt
